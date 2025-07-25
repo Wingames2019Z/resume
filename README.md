@@ -6,7 +6,7 @@
 |居住　| 東京都 |
 |最終学歴    |法政大学 人間環境学部 人間環境学科 卒業|
 |ポートフォリオ1| [Wingames2019Z](https://github.com/Wingames2019Z) |
-|ポートフォリオ2| [リリースゲーム一覧]() |
+|ポートフォリオ2| [リリースゲーム一覧](https://github.com/Wingames2019Z/casual-game-portfolio/) |
 |資格    |TOEIC 905|
 
 ## 概要
