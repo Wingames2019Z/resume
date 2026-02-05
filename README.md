@@ -45,6 +45,9 @@ EC2 | S3 | ALB | IAM | RDS (MySQL) | CloudWatch | ELB | EBS | Lambda | DynamoDB 
 ### SaaS/PaaS
 GitHub | GitHub Actions | Jenkins | Firebase | Google Analytics | Google Spreadsheet | Google Apps Script 
 
+### テスト / 品質管理
+phpunit | phpstan 
+
 ### その他
 Docker | nginx | Apache | TortoiseSVN | JMeter 
 
